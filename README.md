@@ -30,10 +30,10 @@ All encryption and decryption occur **client-side**, ensuring that even the serv
 ---
 
 ## Demo Video Link:
-<a href="#">Coming Soon</a>
+<a href="[MediCrypt - Youtube](https://youtu.be/vfqMM9cjHf8)">YouTube Demo</a>
   
 ## Presentation Link:
-<a href="#"> PPT link here </a>
+<a href="[MediCrypt - PPT](https://www.canva.com/design/DAG4LLy6Z6s/9NeTPZfgdCkEDqG0Piln3w/edit?utm_content=DAG4LLy6Z6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"> PPT link </a>
   
 ---
 
