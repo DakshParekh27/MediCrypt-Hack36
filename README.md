@@ -67,7 +67,7 @@ All encryption and decryption occur **client-side**, ensuring that even the serv
 
 ## 🔐 Encryption Flow Diagram (Summary)
 **Hybrid Encryption Steps:**<br>
-Patient Device
+Patient Device<br>
 ├── Generates AES key → Encrypts report (AES-GCM)<br>
 ├── Encrypts AES key with Doctor’s Public RSA key<br>
 ├── Uploads encrypted report + encrypted AES key → Server<br>
