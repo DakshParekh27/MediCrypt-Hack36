@@ -85,7 +85,7 @@ Doctor Device
 Team Name : DEVLOK
 
 - [Moksh Jain](https://github.com/Moksh-Jain-2212)
-- [Parekh Daksh](https://github.com/DakshParekh27)]
+- [Parekh Daksh](https://github.com/DakshParekh27)
 - [Vankish Gupta](https://github.com/vankishgupta)
 - [Mudit Agarwal](https://github.com/Mudit1919)
 
